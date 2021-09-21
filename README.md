@@ -1,1 +1,2 @@
 # LasteaiaERD
+Andmebaasi lasteaia ERD
